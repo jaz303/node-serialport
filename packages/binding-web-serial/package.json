@@ -1,0 +1,24 @@
+{
+  "name": "@serialport/binding-web-serial",
+  "version": "9.0.7",
+  "main": "lib",
+  "keywords": [
+    "serialport-binding",
+    "web-serial"
+  ],
+  "dependencies": {
+    "@serialport/binding-abstract": "^9.0.7"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/serialport/node-serialport.git"
+  },
+  "engines": {
+    "node": ">=10.0.0"
+  },
+  "funding": "https://opencollective.com/serialport/donate"
+}
